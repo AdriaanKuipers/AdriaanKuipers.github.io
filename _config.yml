@@ -15,6 +15,7 @@ plugins:
 
 # Theme-specific settings
 minima:
+  skin: auto
   # Generate social links in footer.  
   social_links:
     - { platform: github, user_url: "https://github.com/AdriaanKuipers/AdriaanKuipers.github.io/discussions/" }
