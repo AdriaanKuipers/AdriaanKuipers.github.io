@@ -43,7 +43,6 @@
     display: initial;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
   }
   
   .footer-col {
@@ -70,7 +69,6 @@
     display: initial;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
   }
   
   .footer-col {
