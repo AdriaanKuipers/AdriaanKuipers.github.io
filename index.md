@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: i Think ...
+title: i think ...
 ---
 
 ####  Why it works on my machine, and some of how I got there.
