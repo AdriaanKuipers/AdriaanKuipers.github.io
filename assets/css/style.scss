@@ -5,6 +5,9 @@
 @import
   "{{ site.theme }}";
 
+.site-footer {
+  padding: $spacing-unit / 2 $spacing-unit
+
 .footer-col-wrapper {
   margin-left: 0;
   display: flex;
