@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: i Think ...
 ---
 
 ####  The secrets to how and why I got things to work on my machine.
