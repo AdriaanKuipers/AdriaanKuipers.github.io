@@ -11,6 +11,10 @@
   justify-content: space-between;
 }
 
+.footer-col-wrapper:after{
+  content: none;
+}
+
 .footer-col {
   margin-bottom: 0;
   padding-left: 0;
