@@ -9,7 +9,7 @@ layout: home
 title: i Think ...
 ---
 
-####  The secrets to how and why things to work on my machine.
+####  Why things work on my machine, and some of how I got there.
 
 > Experiments and kitchen table projects, mostly programming in .NET.  
 Potentially some tinkering with raspberry pi and micro- and/or circuitpython.
