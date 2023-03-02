@@ -10,5 +10,5 @@ layout: home
 
 ### On how and why I got things to work on my machine.
 
-Experiments and kitchen table projects, mostly programming in .NET.</br>
+Experiments and kitchen table projects, mostly programming in .NET.  
 Potentially some tinkering with raspberry pi and micro- and/or circuitpython.
