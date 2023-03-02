@@ -4,3 +4,27 @@
 
 @import
   "{{ site.theme }}";
+
+.footer-col-wrapper {
+  margin-left: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-col {
+  margin-bottom: 0;
+  padding-left: 0;
+  float: none;
+}
+
+.footer-col-1 {
+  width: auto;
+}
+
+.footer-col-2 {
+  width: auto;
+}
+
+.footer-col-3 {
+  width: auto;
+}
