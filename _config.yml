@@ -1,10 +1,6 @@
 title: i Think ...
-author:
-  name: poolvos
-  email: blog@poolvos.se
-
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
+author: poolvos
+email: blog@poolvos.se
 description: >-
   A home for my alternative facts.
   
@@ -25,3 +21,6 @@ header_pages:
   - about.md
 
 show_excerpts: true
+
+minima:
+  date_format: "%b %-d, %Y"
